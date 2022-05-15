@@ -9,6 +9,18 @@
             "title": "Start Challenge",
             "text": "Due this Sunday! ",
             "id": "1"
+        },
+        {
+            "title": "Start Module 12",
+            "text": "Learn MYSQL",
+            "id": "2"
+        },
+        {
+            "title": "Do MYSQL Challenge",
+            "text": "Due Next Sunday May 15",
+            "id": "3"
         }
+
+
     ]
 }
